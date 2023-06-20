@@ -3,7 +3,7 @@
 
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/ak-2301/To-Do-List/staticfiles/todoApp.PNG)
+![todo App](https://github.com/ak-2301/To-Do-List/blob/main/staticfiles/todoApp.PNG)
 
 
 
